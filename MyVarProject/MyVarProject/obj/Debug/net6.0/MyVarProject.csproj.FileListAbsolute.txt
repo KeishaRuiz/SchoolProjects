@@ -1,0 +1,15 @@
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\MyVarProject.exe
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\MyVarProject.deps.json
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\MyVarProject.runtimeconfig.json
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\MyVarProject.dll
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\ref\MyVarProject.dll
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\bin\Debug\net6.0\MyVarProject.pdb
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.csproj.AssemblyReference.cache
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.AssemblyInfoInputs.cache
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.AssemblyInfo.cs
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.csproj.CoreCompileInputs.cache
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.dll
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\ref\MyVarProject.dll
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.pdb
+C:\Users\Keisha Ruiz\Downloads\MyVarProject\MyVarProject\obj\Debug\net6.0\MyVarProject.genruntimeconfig.cache
