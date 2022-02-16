@@ -1,0 +1,15 @@
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\CrarProject.exe
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\CrarProject.deps.json
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\CrarProject.runtimeconfig.json
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\CrarProject.dll
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\ref\CrarProject.dll
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\bin\Debug\net6.0\CrarProject.pdb
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.csproj.AssemblyReference.cache
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.AssemblyInfoInputs.cache
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.AssemblyInfo.cs
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.csproj.CoreCompileInputs.cache
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.dll
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\ref\CrarProject.dll
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.pdb
+C:\Users\Keisha Ruiz\Downloads\CrarProject\CrarProject\obj\Debug\net6.0\CrarProject.genruntimeconfig.cache
